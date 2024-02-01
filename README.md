@@ -1,6 +1,5 @@
 # notblocked.github.io
-<a href="https://notblocked.github.io/index-1.3">1.3 - Current</a>
 <br>
-<a href="https://notblocked.github.io/index-1.2">1.2 - Old</a>
+<meta http-equiv="Refresh" content="0; url='https://notblocked.github.io/site.html'" />
 <br>
-1.1, 1.0, & BETA - removed
+1.3, 1.2, 1.1, 1.0, & BETA - removed
